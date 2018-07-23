@@ -23,7 +23,7 @@
     <ProjectGuid>{034F131B-00F4-4AA3-BC79-17546909518E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>ArrayMathTest</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <ProjectSubType>NativeUnitTestProject</ProjectSubType>
     <ProjectName>04.ArrayMathTest</ProjectName>
   </PropertyGroup>

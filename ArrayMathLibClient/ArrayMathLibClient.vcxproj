@@ -23,7 +23,7 @@
     <ProjectGuid>{4E725798-BFF7-4FCA-AC10-1F1CF1B281EB}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>ArrayMathLibClient</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
     <ProjectName>03.ArrayMathLibClient</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
